@@ -1,3 +1,4 @@
+print("Kelompok 36")
 # Fungsi dengan return type dan parameter
 def hitung_rata_rata(nilai, jumlah_nilai):
     return nilai / jumlah_nilai
